@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sandsynlighedberegner test", "sandsynlighedberegner test\sandsynlighedberegner test.csproj", "{EAFAB762-8B96-4316-923C-9EB9F468526A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFAB762-8B96-4316-923C-9EB9F468526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFAB762-8B96-4316-923C-9EB9F468526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFAB762-8B96-4316-923C-9EB9F468526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFAB762-8B96-4316-923C-9EB9F468526A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A9B30E-B80E-4523-A4AB-8DEAE4708C5E}
+	EndGlobalSection
+EndGlobal
